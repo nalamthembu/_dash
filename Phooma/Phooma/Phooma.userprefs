@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Phooma\Phooma.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phooma\Program.cs">
+    <Files>
+      <File FileName="Phooma\Program.cs" Line="86" Column="5" />
+      <File FileName="Phooma\Properties\AssemblyInfo.cs" Line="12" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

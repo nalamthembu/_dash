@@ -1,0 +1,10 @@
+E:\_DASH\Phooma\Phooma\Phooma\bin\Debug\Phooma.exe
+E:\_DASH\Phooma\Phooma\Phooma\bin\Debug\Phooma.pdb
+E:\_DASH\Phooma\Phooma\Phooma\obj\x86\Debug\Phooma.csprojResolveAssemblyReference.cache
+E:\_DASH\Phooma\Phooma\Phooma\obj\x86\Debug\Phooma.exe
+E:\_DASH\Phooma\Phooma\Phooma\obj\x86\Debug\Phooma.pdb
+C:\Users\Jama\Documents\Projects\Phooma\Phooma\Phooma\bin\Debug\Phooma.exe
+C:\Users\Jama\Documents\Projects\Phooma\Phooma\Phooma\bin\Debug\Phooma.pdb
+C:\Users\Jama\Documents\Projects\Phooma\Phooma\Phooma\obj\x86\Debug\Phooma.csprojResolveAssemblyReference.cache
+C:\Users\Jama\Documents\Projects\Phooma\Phooma\Phooma\obj\x86\Debug\Phooma.exe
+C:\Users\Jama\Documents\Projects\Phooma\Phooma\Phooma\obj\x86\Debug\Phooma.pdb
